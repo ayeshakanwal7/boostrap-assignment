@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0), rgb(236, 141, 200));
+}
+
+a.nav-link {
+    color: black;
+}
+
+.text {
+    color: rgb(5, 5, 51);
+}
+button.navbar-toggler{
+    color: white;
+}
+.sideparagraph{
+    width: fit-content;
+}
